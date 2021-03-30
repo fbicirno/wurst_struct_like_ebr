@@ -1,0 +1,8 @@
+---
+projectName: wurst_struct_like_ebr
+dependencies:
+- https://github.com/taoria/WurstStdlib2
+buildMapData:
+  name: wurst_struct_like_ebr # Name shown ingame, may be colored
+  fileName: wurst_struct_like_ebr # Name of the map file
+  author: FBIcirno
