@@ -1,0 +1,6 @@
+package GameInit
+import GameInit
+import GuiInit
+init
+    GameInit()
+    GuiInit()

@@ -1,0 +1,3 @@
+package systemInit
+
+//在地图中实现专用系统，或是给lib中的系统进行简化封装处理

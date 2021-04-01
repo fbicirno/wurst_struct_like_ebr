@@ -1,0 +1,4 @@
+package GuiInit
+
+public function GuiInit()
+    print("new gui!")

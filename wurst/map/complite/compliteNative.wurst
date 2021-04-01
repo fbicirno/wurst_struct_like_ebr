@@ -1,0 +1,7 @@
+package compliteNative
+
+//定义编译时的函数
+
+@compiletimenative 
+public function add5(int num1)
+    return num1+5

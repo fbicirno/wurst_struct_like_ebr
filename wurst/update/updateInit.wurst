@@ -1,0 +1,8 @@
+package updateInit
+import update1
+/*
+这个包集中管理更新内容
+*/
+
+init
+    update1()

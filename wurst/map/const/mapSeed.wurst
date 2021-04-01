@@ -1,0 +1,3 @@
+package mapSeed
+
+public constant int mapTime=24
